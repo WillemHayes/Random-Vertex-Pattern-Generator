@@ -6,7 +6,7 @@ This is a pattern generation tool made in p5 that lets you create a random numbe
 ![photo-49](https://github.com/WillemHayes/Random-Vertex-Pattern-Generator/assets/148701931/87f7c128-2c94-468e-955b-6d0b009ada3e)
 ![photo-14](https://github.com/WillemHayes/Random-Vertex-Pattern-Generator/assets/148701931/3923cc95-b383-42ef-a2e6-2d6863b7fa3a)
 
-## Installation
+## Link to Sketch
 (https://editor.p5js.org/WillemHayes/sketches/uUtq7oOJl)
 
 ## Usage
