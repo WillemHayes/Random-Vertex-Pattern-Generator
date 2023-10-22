@@ -7,7 +7,7 @@ This is a pattern generation tool made in p5 that lets you create a random numbe
 ![photo-14](https://github.com/WillemHayes/Random-Vertex-Pattern-Generator/assets/148701931/3923cc95-b383-42ef-a2e6-2d6863b7fa3a)
 
 ## Installation
-Copy the code from the sketch.js file into p5.js.
+(https://editor.p5js.org/WillemHayes/sketches/uUtq7oOJl)
 
 ## Usage
 By changing the colours, shape number parameters, vertices parameters and x/y parameters, you have a lot of control over the kinds of shapes this sketch can generate.
